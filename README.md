@@ -39,9 +39,6 @@ Tutti i laboratori sono stati implementati in **Python** all'interno di ambienti
 * `NumPy`: Per la gestione di matrici, calcoli modulari e operazioni bitwise.
 * `Matplotlib` & `Seaborn`: Per la visualizzazione dei dati, analisi BER e distribuzioni statistiche.
 * `Scikit-learn`: Per l'analisi delle metriche di performance e calibrazione.
-
-## 🎓 Contesto Accademico
-Questi progetti sono stati realizzati sotto la supervisione del Dipartimento di Ingegneria dell'Informazione dell'Università di Padova, integrando concetti teorici di crittografia, teoria dell'informazione e sicurezza delle reti.
-
+  
 ---
 *Padova, Anno Accademico 2024/2025*
